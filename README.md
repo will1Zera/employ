@@ -34,7 +34,7 @@ Praticar conceitos aprendidos em aula. Entre eles:
 - Autenticação, contextAPI e hooks do React
 - Animações do Framer-motion
 - RegEx
-- Resposividade no CSS
+- Resposividade com styled-components
 - Modal com EmailJs
 
 
