@@ -1,5 +1,6 @@
 import * as C from "./styles";
 import { AiOutlineFacebook, AiOutlineInstagram, AiOutlineLinkedin } from "react-icons/ai";
+import { Link } from 'react-router-dom';
 
 
 let easeing = [0.6, -0.5, 0.01, 0.99];
@@ -36,9 +37,9 @@ const Footer = () => {
                 <C.Info variants={item}>
                     <h3>Informações</h3>
                     <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/sobre">Sobre</a></li>
-                        <li><a href="/funcionamento">Funcionamento</a></li>
+                        <li><Link to="/">Home</Link></li>
+                        <li><Link to="/sobre">Sobre</Link></li>
+                        <li><Link to="/funcionamento">Funcionamento</Link></li>
                     </ul>
                 </C.Info>
            </C.Footer>
