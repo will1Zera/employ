@@ -4,7 +4,8 @@
   <a href="#sobre-">Sobre</a>
 </p>
 <p align="center"> 
-  Employ é um site de transferências internacionais que possibilita o usuário criar sua conta, logar e deslogar
+  Employ é um site de transferências internacionais que possibilita o usuário criar sua conta, logar e deslogar.
+  Também permite que mande um e-mail para mim através de um formulário de contato.
 </p>
 <p align="center">
   <img src="/public/employ.gif" align="center" style="border-radius: 10px" />
