@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - Styled-components
 - Javascript
-- ReactJs
+- ReactJS
 - Framer-motion
 
 ## Sobre 📖
@@ -35,7 +35,7 @@ Praticar conceitos aprendidos em aula. Entre eles:
 - Animações do Framer-motion
 - RegEx
 - Resposividade com styled-components
-- Modal com EmailJs
+- Modal com EmailJS
 
 
 by [William Bierhals](https://github.com/will1Zera)
